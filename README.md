@@ -1,2 +1,2 @@
 # Portfolio-Project-Practice
-This is my practice run on my portfolio project learning more each day.
+Shout out to CodeTutorial360 for the tutorial, changed some things for taste.
